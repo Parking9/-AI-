@@ -89,7 +89,7 @@
   - node, layer, overfitting
   - GridSearch, RandomForest, 변수를 선택하여 성능 비교를 통해 모델 조정 및 정확도 비교
 
-![Process](README.assets/process.JPG)
+![Process](./img/process.JPG)
 
 #### 위 사진과 같이 고려사항에 대해 각각의 모델을 만들고, Score를 비교하여 가장 점수가 높은 모델을 선택하였다.
 
@@ -99,7 +99,7 @@
 
 > 평가 지표는 Mean Absolute Error (MAE)입니다.
 
-![프로젝트 결과](README.assets/dacon_resuly.JPG)
+![프로젝트 결과](./img/assets/dacon_resuly.JPG)
 
 ## # 프로젝트를 마무리 하며..
 
