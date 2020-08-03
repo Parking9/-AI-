@@ -99,7 +99,7 @@
 
 > 평가 지표는 Mean Absolute Error (MAE)입니다.
 
-![프로젝트 결과](./img/assets/dacon_resuly.JPG)
+![프로젝트 결과](./img/dacon_resuly.JPG)
 
 ## # 프로젝트를 마무리 하며..
 
